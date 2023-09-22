@@ -13,6 +13,8 @@ from mnist import MNIST
 
 from NumberRecognition.NeuralNetwork import NeuralNetworkLayerBuilder, NeuralNetwork
 
+# Test to see if collaborator stuff finally works
+
 mdata = MNIST("./MNIST/")
 images, labels = mdata.load_training()
 # Convert arrays into numpy arrays with numbers ranging from 0 to 1
