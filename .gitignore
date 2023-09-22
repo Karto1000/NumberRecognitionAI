@@ -1,0 +1,5 @@
+.idea/
+venv/
+NumberRecognition/MNIST/train-images-idx3-ubyte
+NumberRecognition/MNIST/train-labels-idx1-ubyte
+NumberRecognition/network.json
